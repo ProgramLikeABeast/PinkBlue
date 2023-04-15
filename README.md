@@ -11,3 +11,14 @@ There are numerous people around the world loving pieces of design/art, from a c
 - Yang Xu, Senior Student at Penn State in Computer Science, is the tech lead,
 - Jichen Zhou, Junior Student at MICA, is the CDO
 
+## Tech Stacks 
+### used
+- Dart as primary programming language
+- Flutter as Frontend Framework
+- Material UI for Widgets
+- Git for version control
+### to be used in the future
+- Google Firebase as serverless host
+- Amazon S3 as remote database
+- Microsoft Azure for cloud servce(computing)
+- Kubernetes(k8s) for managing containerlized workloads & services
